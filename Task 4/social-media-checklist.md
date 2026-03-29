@@ -1,9 +1,13 @@
 📋 ✅ Social Media Do’s and Don’ts Checklist
 ✔️ Do’s
 Use strong and secure passwords for all accounts.
+
 Keep your profile professional and respectful.
+
 Think before posting or sharing content.
+
 Verify information before sharing it online.
+
 Adjust privacy settings to control who can see your posts.
 
 
