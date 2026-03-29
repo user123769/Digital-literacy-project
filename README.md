@@ -1,7 +1,7 @@
 # Digital-literacy-project
 
 
-## 👤 Student Details
+##  Student Details
 
 **Name:** Shalabh Pachori
 **Registration Number:** 25BAI11557
@@ -9,14 +9,14 @@
 **Year:** 1st Year
 
 
-## 📖 Project Overview
+##  Project Overview
 
 This repository contains my Digital Literacy Project for the course **CSE0001 – Digital Literacy**. As part of this project, I have completed various tasks to develop essential digital skills such as creating online profiles, practicing coding, understanding email etiquette, and learning about cyber safety.
 
 The project is designed to help students become responsible digital citizens and build a professional online presence.
 
 
-## 📂 Repository Structure
+##  Repository Structure
 
 * **report/** → Contains the final project report
 * **task-1-presentation/** → Infographic on Digital Literacy
@@ -26,7 +26,7 @@ The project is designed to help students become responsible digital citizens and
 * **task-5-cybercrime/** → Cybercrime case study and prevention checklist
 
 
-## 📝 Task Summary
+##  Task Summary
 
 ### 🔹 Task 1: Digital Literacy Infographic
 
@@ -40,7 +40,7 @@ Set up professional profiles on GitHub, LinkedIn, and Kaggle to build an online 
 
 Completed a beginner coding challenge on HackerRank and created a Google Form quiz on digital literacy.
 
-👉 **Google Form Link:** [Paste Your Link Here]
+ **Google Form Link:** [Paste Your Link Here]
 
 ### 🔹 Task 4: Email Etiquette
 
@@ -51,7 +51,7 @@ Drafted two professional emails and created a social media Do’s and Don’ts c
 Prepared a case study on cybercrime and a prevention checklist to promote online safety.
 
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Improved understanding of digital literacy
 * Learned to use online tools effectively
@@ -59,7 +59,7 @@ Prepared a case study on cybercrime and a prevention checklist to promote online
 * Gained awareness about cyber security and online safety
 
 
-## 🔗 Tools & Platforms Used
+##  Tools & Platforms Used
 
 * Canva
 * GitHub
@@ -69,6 +69,6 @@ Prepared a case study on cybercrime and a prevention checklist to promote online
 * Google Forms
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project helped me build essential digital skills and understand the importance of responsible online behavior. It also enhanced my ability to create a professional digital presence.
