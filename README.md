@@ -1,11 +1,11 @@
 # Digital-literacy-project
-*# 📘 Digital Literacy Portfolio
+
 
 ## 👤 Student Details
 
-**Name:** [Your Name]
-**Registration Number:** [Your Reg No.]
-**Branch:** [Your Branch]
+**Name:** Shalabh Pachori
+**Registration Number:** 25BAI11557
+**Branch:** AI-ML
 **Year:** 1st Year
 
 
